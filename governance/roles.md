@@ -307,7 +307,7 @@ project/facilitation task:
 
 ### Rotation process
 
-The rotation process for should start at least 2 weeks before a rotation is due.
+The rotation process should start at least 2 weeks before a rotation is due.
 
 1. STAG representative will get feedback on potential candidates from current
    leads and through nominations from the STAG leadership
@@ -321,5 +321,6 @@ The rotation process for should start at least 2 weeks before a rotation is due.
 nominations or unavailability of nominees, the current rotation cycle will be
 skipped. However, reconsideration/restructuring of the project or work will
 be raised and discussed between STAG co-chairs.
+1. Validation that proper transition has happened will be done by STAG representative.
 
 * [Security Reviewers](../assessments/guide/security-reviewer.md)
