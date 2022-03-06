@@ -382,3 +382,4 @@ The rotation process should start at least 2 weeks before a rotation is due.
 1. Validation that proper transition has happened will be done by STAG representative.
 1. If there are multiple leads on a project, STAG leadership will work with
    current leads to decide how many leads should be rotated.
+
