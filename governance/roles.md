@@ -289,6 +289,8 @@ Some ongoing projects may have teams where members are identified for
 additional roles and may be required to have specific expertise. For visibility,
 these additional project roles are listed below:
 
+* [Security Reviewers](../assessments/guide/security-reviewer.md)
+
 ## Lead rotations
 
 For certain facilitator roles, teams and projects that are ongoing, leadership
@@ -311,16 +313,16 @@ The rotation process should start at least 2 weeks before a rotation is due.
 
 1. STAG representative will get feedback on potential candidates from current
    leads and through nominations from the STAG leadership
-1. Leads should recommend at a number of potential candidates based on the
+1. Leads should recommend a number of potential candidates based on the
    current number of lead positions
 1. Based on the nominations, STAG leadership will decide on the next lead
    rotation
 1. STAG representative will reach out to nominated leads for acceptance of new
    role
 1. In the event that no rotation candidates are available, due to lack of
-nominations or unavailability of nominees, the current rotation cycle will be
-skipped. However, reconsideration/restructuring of the project or work will
-be raised and discussed between STAG co-chairs.
+   nominations or unavailability of nominees, the current rotation cycle will be
+   skipped. However, reconsideration/restructuring of the project or work will
+   be raised and discussed between STAG co-chairs.
 1. Validation that proper transition has happened will be done by STAG representative.
-
-* [Security Reviewers](../assessments/guide/security-reviewer.md)
+1. If there are multiple leads on a project, STAG leadership will work with
+   current leads to decide how many leads should be rotated.
