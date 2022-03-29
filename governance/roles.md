@@ -105,7 +105,7 @@ process](tech-lead-proposal-process.md).
 After a [Chair](#role-of-chairs) finishes their term, they transition into a role
 of Chair Emeritus. This allows previous Chairs to continue to chime in and provide
 valuable context and contributions to the TAG. A Chair Emeritus can assume a role
-of a [technical lead](#roles-of-technical-leads), but in doing so, must be active
+of a [technical lead](#role-of-technical-leads), but in doing so, must be active
 in communicating with the co-chairs and technical leads (i.e. participating in the
 chair/TL slack and meetings). A Chair Emeritus has the same permissions/access as
 technical leads.
